@@ -124,7 +124,7 @@ p{
 }
 .img2{
     margin-left: 20px;
-    width: 300px;
+    width: 250px;
     height: 300px;
 }
 .img2:hover{
@@ -184,4 +184,23 @@ hr{
 }
 .star{
     margin-left: 80px;
+}
+.watch{
+    width: 1360px;
+    height: 400px;
+    background-color: rgba(255, 192, 203 , .5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.watch2{
+    width: 660px;
+    height:400px ;
+}
+.watch3{
+    width: 660px;
+    height:400px ;
+}
+.img11{
+    width: 400px;
 }
